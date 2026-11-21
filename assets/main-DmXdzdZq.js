@@ -1,0 +1,1 @@
+import{a as e,t}from"./render-C0WLYoo_.js";var n=document.querySelector(`#app`);n&&(n.innerHTML=t(),e());
