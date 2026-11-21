@@ -1,0 +1,1 @@
+import{i as e,t}from"./render-C68wGa1F.js";var n=document.querySelector(`#app`);n&&(n.innerHTML=t(),e());

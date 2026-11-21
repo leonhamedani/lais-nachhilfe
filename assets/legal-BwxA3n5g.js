@@ -1,0 +1,1 @@
+import{n as e,r as t}from"./render-C68wGa1F.js";var n=document.querySelector(`#app`),r=document.body.dataset.page===`datenschutz`?`datenschutz`:`impressum`;n&&(n.innerHTML=e(r),t());
