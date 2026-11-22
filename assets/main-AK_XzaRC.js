@@ -1,0 +1,1 @@
+import{a as e,t}from"./render-DeKrMuyA.js";var n=document.querySelector(`#app`);n&&(n.innerHTML=t(),e());
