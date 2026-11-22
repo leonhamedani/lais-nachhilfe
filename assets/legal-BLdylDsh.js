@@ -1,1 +1,0 @@
-import{i as e,n as t}from"./render-C0WLYoo_.js";var n=document.querySelector(`#app`),r=document.body.dataset.page===`datenschutz`?`datenschutz`:`impressum`;n&&(n.innerHTML=t(r),e());
