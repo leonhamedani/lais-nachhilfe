@@ -1,0 +1,1 @@
+import{a as e,t}from"./render-5GYv2f1t.js";var n=document.querySelector(`#app`);n&&(n.innerHTML=t(),e());
