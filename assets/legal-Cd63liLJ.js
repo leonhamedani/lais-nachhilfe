@@ -1,0 +1,1 @@
+import{i as e,n as t}from"./render-BJcQTj5M.js";var n=document.querySelector(`#app`),r=document.body.dataset.page===`datenschutz`?`datenschutz`:`impressum`;n&&(n.innerHTML=t(r),e());
