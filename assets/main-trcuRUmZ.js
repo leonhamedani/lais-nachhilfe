@@ -1,0 +1,1 @@
+import{a as e,t}from"./render-HePSJlg5.js";var n=document.querySelector(`#app`);n&&(n.innerHTML=t(),e());
